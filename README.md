@@ -5,7 +5,7 @@
 Somfy Remote:
 https://github.com/DCotterill/Somfy_Remote
 
-An update of the Arduino based mircocontroller code to control Somfy electronic blinds. Let's me connect all my house blinds to Google Home to open and close them with voice commands
+An update of the Arduino based mircocontroller code to control Somfy electronic window blinds. It lets me connect all my house blinds to Google Home to open and close them with voice commands - "Hey Google, open all the blinds"
 
 Strava Stats:
 https://github.com/DCotterill/StravaStats
@@ -16,6 +16,14 @@ Soccer Tracking:
 https://github.com/DCotterill/SoccerTracking
 
 Just starting this one... it's using a Machine Learning model ( and a library called Yolo) to recognise a moving soccer ball in real time video. The goal is to make a skills based game, kinda Dance Dance Revolution but for soccer skills.
+
+
+## Programming topics I want to learn more about, or I'm struggling with 
+
+- I need to find a good way of clearly explaining Python modules and packages, as everyone finds it confusing
+- I'd like to find a good way of building GUI based apps / games, but without the library dependencies of something like PyGame, which seems to add too much complexity.
+- Want to find a way to 'build in Replit' then 'run locally', because one of the constraints, especially when making simple games, is that they don't run fast enough in the browser.
+  
 
 
 
