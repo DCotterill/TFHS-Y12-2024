@@ -20,6 +20,7 @@ Just starting this one... it's using a Machine Learning model ( and a library ca
 
 ## Programming topics I want to learn more about, or I'm struggling with 
 
+- Find a way to setup a server on a free hosted platform so Python apps can easily share and store data. HTTP based, with simple keys, storing and updating in memory data structures. Use cases could be games sharing turn data, high scores, etc.
 - I need to find a good way of clearly explaining Python modules and packages, as everyone finds it confusing
 - I'd like to find a good way of building GUI based apps / games, but without the library dependencies of something like PyGame, which seems to add too much complexity.
 - Want to find a way to 'build in Replit' then 'run locally', because one of the constraints, especially when making simple games, is that they don't run fast enough in the browser.
